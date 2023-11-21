@@ -12,6 +12,9 @@
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="/developer/all">Perusahaan</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/application/all">Aplikasi</a>
+                </li>
             </ul>
         </div>
     </div>
